@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:node/recommended",
+    "standard"
+  ],
+  "rules": {
+    "comma-dangle": "off",
+    "semi": "off",
+    "no-console": "warn",
+    "node/no-unsupported-features/es-syntax": "off"
+  }
+}
